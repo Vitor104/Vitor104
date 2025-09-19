@@ -29,6 +29,9 @@ Adapto-me facilmente a diferentes ambientes e desafios, trabalhando bem tanto so
 
 ## 📫 Como me encontrar
 
+- Email: jv7554817@gmail.com
+- Linkedin: www.linkedin.com/in/jvvitor
+
 <!-- Adicione suas redes sociais ou e-mail aqui! 
 Exemplo:
 [LinkedIn](https://www.linkedin.com/in/seuusuario) | [Twitter](https://twitter.com/seuusuario) | Email: seu@email.com
