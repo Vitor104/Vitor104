@@ -36,7 +36,7 @@ Adapto-me facilmente a diferentes ambientes e desafios, trabalhando bem tanto so
 
 ## 🌟 Projeto em Destaque
 
-[Meu portfolio](https://github.com/Vitor104/meu-portfolio)  
+[Meu portfolio](https://github.com/Vitor104/vitorsPortfolio)  
 > Um espaço onde apresento quem sou, meus projetos e minhas habilidades!
 
 ## 📚 Curiosidades
